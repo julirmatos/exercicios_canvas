@@ -9,16 +9,10 @@
 <img width="365" height="734" alt="image" src="https://github.com/user-attachments/assets/dfa0cc56-a126-4df5-9b79-8befdebec2d3" />
 <img width="365" height="642" alt="image" src="https://github.com/user-attachments/assets/44122124-b143-426a-821d-8a900bb643a5" />
 
+# @julirmatos
 
-
-
-
-
-#@julirmatos
-
-#@generationbr
-
-
+# @generationbr
 
 ## Ferramentas Utilizadas
+
 [![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,js,github,git,)](https://skillicons.dev)
