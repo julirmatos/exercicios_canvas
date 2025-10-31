@@ -1,15 +1,15 @@
-const leia = require('readline-sync');
+const leia = require('readline-sync')
 
 let numero;
-let somaPositivos = 0;
+let somaPositivos = 0
 
 do {
-  numero = leia.questionInt("Digite um número: ");
+  numero = leia.questionInt("Digite um número: ")
 
   if (numero > 0) {
-    somaPositivos += numero; 
+    somaPositivos += numero
   }
 
 } while (numero !== 0);
 
-console.log("A soma dos números positivos é:", somaPositivos);
+console.log("A soma dos números positivos é:", somaPositivos)

@@ -33,32 +33,32 @@ while (continuar === 'S' || continuar === 's') {
 
     
     totalPessoas = totalPessoas + 1
-    somaIdades = somaIdades + idade
+    somaIdades++
 
     
     switch (desenvolvedora) {
         case 1:
-            totalBackend = totalBackend + 1
+            totalBackend ++
             break
 
         case 2:
             
             if (genero === 1 || genero === 4) {
-                mulheresFrontend = mulheresFrontend + 1
+                mulheresFrontend ++
             }
             break
 
         case 3:
             
             if ((genero === 2 || genero === 5) && idade > 40) {
-                homensMobile40 = homensMobile40 + 1
+                homensMobile40 ++
             }
             break
 
         case 4:
             
             if (genero === 3 && idade < 30) {
-                nbFullstack30 = nbFullstack30 + 1
+                nbFullstack30 ++
             }
             break
 
