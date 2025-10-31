@@ -1,6 +1,6 @@
 const leia = require('readline-sync')
 
-let numero;
+let numero
 let somaPositivos = 0
 
 do {
