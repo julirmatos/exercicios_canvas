@@ -78,7 +78,7 @@ if (totalPessoas > 0) {
     mediaIdades = somaIdades / totalPessoas
 }
 
-// Saída final
+
 console.log("===== RESULTADOS DA PESQUISA =====")
 console.log("Total de pessoas desenvolvedoras Backend: " + totalBackend)
 console.log("Total de Mulheres Cis e Trans desenvolvedoras Frontend: " + mulheresFrontend)

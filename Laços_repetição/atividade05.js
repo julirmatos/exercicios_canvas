@@ -7,7 +7,7 @@ do {
   numero = leia.questionInt("Digite um número: ");
 
   if (numero > 0) {
-    somaPositivos += numero; // soma apenas positivos
+    somaPositivos += numero; 
   }
 
 } while (numero !== 0);
