@@ -1,4 +1,4 @@
-const leia = require("readline-sync")
+import readlineSync from 'readline-sync'
 
 const cores: Array<string> = new Array<string>()
 
